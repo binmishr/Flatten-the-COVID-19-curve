@@ -22,3 +22,5 @@ As much as I support the message and reasons for flattening the curve, some of t
 We shall use a simple and common mathematical model from infectious disease modelling to illustrate this point. This model is easily implemented in R – showing how is a secondary objective of this post. The R code is attached in this post.
 
 A word of caution at this point: The numbers and illustrations used in this post address the point of visualization and are not an attempt to generate actual policy advice.
+
+Ordinal Differential Equation System: https://en.wikipedia.org/wiki/Ordinary_differential_equation
